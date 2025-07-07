@@ -19,3 +19,13 @@
 - These spreadsheets cannot be used for commercial purposes or practical construction and cannot replace a fully systematic design software or process required by code-compliant engineering practice.
 - By using these files, you acknowledge that the author bears no responsibility for any misuse, misinterpretation, or errors in the results.
 - Always consult a licensed structural engineer for actual design work.
+
+<br>
+<br>
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+See the [LICENSE](./LICENSE) file for full legal terms.
+
+This project is intended for non-commercial, educational use only.
